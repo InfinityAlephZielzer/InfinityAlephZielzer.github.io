@@ -12,13 +12,9 @@ Markdown
 
   <p><i>"Turning coffee into clean code & scalable systems."</i></p>
 
-  <!-- Social Badges (Monodark Palette) -->
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white&borderColor=007ACC" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/InfinityAlephZielzer">
-    <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=007ACC" alt="LinkedIn"/>
-  </a>
+  <!-- Name Badge (Monodark Style) -->
+  <img src="https://img.shields.io/badge/InfinityAlephZielzer-181818?style=for-the-badge&logo=github&logoColor=007ACC" alt="InfinityAlephZielzer"/>
+
 </div>
 
 <br/>
