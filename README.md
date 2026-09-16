@@ -18,9 +18,6 @@
   <a href="https://linkedin.com/in/InfinityAlephZielzer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://pichakornch-67.github.io">
-    <img src="https://img.shields.io/badge/Website-pichakornch--67.github.io-007ACC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/>
-  </a>
 
 </div>
 
