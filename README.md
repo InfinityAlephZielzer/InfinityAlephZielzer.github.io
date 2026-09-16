@@ -12,11 +12,6 @@ Markdown
 
   <p><i>"Turning coffee into clean code & scalable systems."</i></p>
 
-  <!-- Name Badge (Monodark Style with Profile Link) -->
-  <a href="https://github.com/InfinityAlephZielzer">
-    <img src="https://img.shields.io/badge/InfinityAlephZielzer-181818?style=for-the-badge&logo=github&logoColor=007ACC" alt="InfinityAlephZielzer"/>
-  </a>
-
 </div>
 
 <br/>
