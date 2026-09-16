@@ -1,22 +1,36 @@
 Markdown
-# 👋 สวัสดีครับ/ค่ะ ผมชื่อ [ชื่อของคุณ]
+<div align="center">
 
-### 👨‍💻 เกี่ยวกับฉัน (About Me)
-- 🔭 ตอนนี้กำลังทำโปรเจกต์เกี่ยวกับ: **[ชื่อโปรเจกต์]**
-- 🌱 กำลังศึกษาเพิ่มเติมเรื่อง: **[เทคโนโลยีที่กำลังเรียนรู้]**
-- 💬 สอบถามฉันได้เกี่ยวกับเรื่อง: **[ทักษะที่คุณถนัด]**
-- 📫 ติดต่อฉันได้ที่: **[Email หรือ LinkedIn]**
+  <!-- Header Banner / Title -->
+  <h1>💻 Hello World, I'm <span color="#007ACC">[YOUR NAME]</span> 👋</h1>
+  <h3>Computer Engineer | Systems & Software Developer</h3>
+
+  <!-- Typing effect badge or status -->
+  <p>
+    <i>"Turning coffee into clean code & scalable systems."</i>
+  </p>
+
+  <!-- Social Badges -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/>
+  </a>
+
+</div>
+
+<br/>
 
 ---
 
-### 🛠️ ทักษะและความสามารถ (Tech Stack)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 👨‍💻 About Me
 
----
-
-### 📊 สถิติ GitHub (GitHub Stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=com
+```sys-info
+Hardware & OS : Linux / x86_64 / ARM64
+Primary Focus : Embedded Systems / System Architecture / Full-Stack Engineering
+Current Location : Khon Kaen, Thailand 🇹🇭
+Status        : Always building something cool... 🚀
