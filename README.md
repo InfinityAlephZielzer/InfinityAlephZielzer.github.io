@@ -30,7 +30,7 @@
 
 ### 👨‍💻 About Me
 
-
+```text
 Bio              : Dedicated to crafting immersive worlds and fun experiences
                    that bring genuine happiness and excitement to players everywhere.
 
