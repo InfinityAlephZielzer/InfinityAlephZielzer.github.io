@@ -1,6 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-
 title: [InfinityAlephZielzer]
 description: [fly too high to fall too fast]
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
