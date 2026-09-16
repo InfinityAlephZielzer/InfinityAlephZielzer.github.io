@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Profile Image -->
-  <img src="https://github.com/InfinitAlephZielzer.png" width="160" height="160" alt="Profile" style="border-radius: 50%; border: 4px solid #007ACC; object-fit: cover;" />
+  <img src="https://github.com/InfinityAlephZielzer.png" width="160" height="160" alt="Profile" style="border-radius: 50%; border: 4px solid #007ACC; object-fit: cover;" />
 
   <br/><br/>
 
