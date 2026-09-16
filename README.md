@@ -19,10 +19,6 @@ Markdown
   <a href="https://linkedin.com/in/InfinityAlephZielzer">
     <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=007ACC" alt="LinkedIn"/>
   </a>
-  <a href="https://pichakornch-67.github.io">
-    <img src="https://img.shields.io/badge/Website-pichakornch--67.github.io-181818?style=for-the-badge&logo=githubpages&logoColor=007ACC" alt="Website"/>
-  </a>
-
 </div>
 
 <br/>
