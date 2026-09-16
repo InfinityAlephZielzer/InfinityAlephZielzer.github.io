@@ -1,2 +1,3 @@
 # InfinityAlephZielzer.github.io
-Bio : My untimate profile
+Display Name : InfinitAlephZielzer
+Specigic Tagline : Gameplay Programmer,AI Programmer,Graphics Programmer,Network Programmer,Engine Programmer
