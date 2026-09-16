@@ -2,7 +2,7 @@ Markdown
 <div align="center">
 
   <!-- Profile Image (ดึงจาก GitHub Avatar โดยตรง) -->
-  <img src="https://github.com/InfinitAlephZielzer.png" width="160" height="160" alt="Profile Sketch" style="border-radius: 50%; border: 4px solid #007ACC; object-fit: cover;" />
+  <img src="https://github.com/InfinitAlephZielzer.png" width="160" height="160" alt="Profile" style="border-radius: 50%; border: 4px solid #007ACC; object-fit: cover;" />
 
   <br/><br/>
 
