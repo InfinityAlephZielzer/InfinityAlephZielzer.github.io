@@ -1,8 +1,8 @@
 Markdown
 <div align="center">
 
-  <!-- Profile Image from Sketch -->
-  <img src="https://image-api.example.com/api/image/image_2.png" width="150" height="150" alt="InfinityAlephZielzer Profile Sketch" style="border-radius: 50%; border: 4px solid #007ACC; box-shadow: 0 4px 8px rgba(0,0,0,0.2); object-fit: cover; aspect-ratio: 1/1;" />
+  <!-- Profile Image (ดึงจาก GitHub Avatar โดยตรง) -->
+  <img src="https://github.com/InfinitAlephZielzer.png" width="160" height="160" alt="Profile Sketch" style="border-radius: 50%; border: 4px solid #007ACC; object-fit: cover;" />
 
   <br/><br/>
 
@@ -10,10 +10,7 @@ Markdown
   <h1>💻 Hello World, I'm <span color="#007ACC">InfinityAlephZielzer</span> 👋</h1>
   <h3>Computer Engineering Student (Year 1)</h3>
 
-  <!-- Quote -->
-  <p>
-    <i>"Turning coffee into clean code & scalable systems."</i>
-  </p>
+  <p><i>"Turning coffee into clean code & scalable systems."</i></p>
 
   <!-- Social Badges -->
   <a href="mailto:your.email@example.com">
@@ -21,6 +18,9 @@ Markdown
   </a>
   <a href="https://linkedin.com/in/InfinityAlephZielzer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pichakornch-67.github.io">
+    <img src="https://img.shields.io/badge/Website-pichakornch--67.github.io-007ACC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/>
   </a>
 
 </div>
