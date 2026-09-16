@@ -1,8 +1,7 @@
-Markdown
 <div align="center">
 
-  <!-- Profile Image (ดึงจาก GitHub Avatar โดยตรง) -->
-  <img src="https://github.com/InfinityAlephZielzer.png" width="160" height="160" alt="Profile" style="border-radius: 50%; border: 4px solid #007ACC; object-fit: cover;" />
+  <!-- Profile Image -->
+  <img src="https://github.com/InfinitAlephZielzer.png" width="160" height="160" alt="Profile" style="border-radius: 50%; border: 4px solid #007ACC; object-fit: cover;" />
 
   <br/><br/>
 
@@ -31,8 +30,12 @@ Markdown
 
 ### 👨‍💻 About Me
 
-```sys-info
-Hardware & OS : Linux / x86_64 / ARM64
-Primary Focus : Embedded Systems / IoT / Low-Level & Web Development
-Current Location : Khon Kaen, Thailand 🇹🇭
-Status        : Always building something cool... 🚀
+
+Bio              : Dedicated to crafting immersive worlds and fun experiences
+                   that bring genuine happiness and excitement to players everywhere.
+
+Specific Tagline : Game Developer
+
+Current Learning : C, C++, C#, Python, HTML, CSS, and IoT Development
+
+Status           : Tried to do better... 🚀
